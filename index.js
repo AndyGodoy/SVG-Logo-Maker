@@ -2,7 +2,7 @@ const filesystem = require('./node_modules/graceful-fs/graceful-fs')
 // const filesystem = require('./node_modules/svg')
 const inquirer = require('inquirer');
 const {Circle, Square, Triangle} = require("./lib/shapes");
-
+7
 // Defines a Svg class that has a constructor with three methods for rendering and setting the text and shape elements in the SVG string.
 class Svg{
     constructor(){

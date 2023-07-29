@@ -38,4 +38,6 @@ Generated logo.svg
 
 
 Link to demo video:
-https://drive.google.com/file/d/16a10l4cH2FMZrjY9WJRfJEdOiaD1yXqC/view
+https://drive.google.com/file/d/16a10l4cH2FMZrjY9WJRfJEdOiaD1yXqC/
+
+file:///Users/andygodoy/Downloads/Untitled_%20Jul%2028,%202023%209_08%20PM.webm

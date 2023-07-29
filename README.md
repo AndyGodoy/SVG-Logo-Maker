@@ -34,3 +34,8 @@ $ node logoGenerator.js
 Generated logo.svg
 
 ## License 
+
+
+
+Link to demo video:
+https://drive.google.com/file/d/16a10l4cH2FMZrjY9WJRfJEdOiaD1yXqC/view
